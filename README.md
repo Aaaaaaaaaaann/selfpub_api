@@ -1,6 +1,6 @@
 # Selfpub API
 
-An API for Selfpub project that allow you to publics your books (allegedly).
+An API for Selfpub project that allow you to publish your books (allegedly).
 
 
 ## Populate the database
@@ -333,4 +333,4 @@ GET api/books/<uuid:id>/comments/<uuid:id>/
 
 ## Caveats
 1. Now the API doesn't allow users registration and password resetting (as time was running out 😬).
-2. Some parts may not be consistent with the idiomatic Django solutions (as I haven't used this framework for a long time) and could be improves after more diligent documentation reading.
+2. Some parts may not be consistent with the idiomatic Django and DRF solutions (as I haven't used this framework for a long time) and could be improves after more diligent documentation reading.
