@@ -1,0 +1,4 @@
+Django==4.0
+djangorestframework==3.13.1
+mimesis==5.2.1
+pytest-django==4.5.2

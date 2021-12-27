@@ -1,0 +1,42 @@
+[
+    {
+        "model": "users.user",
+        "pk": "0082e903-4bf5-496c-b9b0-6145a8ba46e8",
+        "fields": {
+            "password": "",
+            "last_login": null,
+            "is_superuser": false,
+            "first_name": "",
+            "last_name": "",
+            "is_staff": false,
+            "is_active": true,
+            "date_joined": "2021-12-26T18:32:42.669Z",
+            "full_name": "Элеонора Мартемьянова",
+            "birth_year": 1970,
+            "email": "cooking1844@gmail.com",
+            "username": null,
+            "groups": [],
+            "user_permissions": []
+        }
+    },
+    {
+        "model": "users.user",
+        "pk": "02983c76-a826-4ba6-adff-26d23f3a51d8",
+        "fields": {
+            "password": "",
+            "last_login": null,
+            "is_superuser": false,
+            "first_name": "",
+            "last_name": "",
+            "is_staff": false,
+            "is_active": true,
+            "date_joined": "2021-12-26T18:32:42.676Z",
+            "full_name": "Пахомий Подгородецкий",
+            "birth_year": 1975,
+            "email": "bloomberg1947@yandex.com",
+            "username": null,
+            "groups": [],
+            "user_permissions": []
+        }
+    }
+]

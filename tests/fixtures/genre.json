@@ -1,0 +1,9 @@
+[
+    {
+        "model": "books.genre",
+        "pk": "56397737-ac6c-4330-8dc1-976d1c6d4d31",
+        "fields": {
+            "name": "бизнес"
+        }
+    }
+]
